@@ -98,7 +98,7 @@ export default () => {
                         <Label>
                             <Flex m="auto">
                                 <Checkbox width="40px" required />
-                                <Text my="auto">I acknowledge that the registry is not rersponsible for any adverse consequences.</Text>
+                                <Text my="auto">I acknowledge that the registry is not responsible for any adverse consequences.</Text>
                             </Flex>
                         </Label>
                         <Flex mx="auto" my="10px">
