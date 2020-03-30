@@ -1,1 +1,1 @@
-# COVID19 Plasma Registry!
+# Global COVID19 Registry!
